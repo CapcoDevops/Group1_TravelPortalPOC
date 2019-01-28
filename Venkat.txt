@@ -1,8 +1,4 @@
 anurag
 venkat
-<<<<<<< HEAD
-vinita
-=======
 vinod
->>>>>>> 03d521aaaf6972db80da95c088f2d76164447a7e
 ankit
