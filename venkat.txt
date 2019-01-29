@@ -4,5 +4,5 @@ march
 april
 may
 june
-july
-august
+October
+November
