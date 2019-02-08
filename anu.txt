@@ -1,0 +1,15 @@
+Anurag
+Vineet
+Venkat
+Shivam
+[?30/?01/?2019 14:32]  Prasad, Venkat:  
+https://www.ubuntu.com/download/desktop/thank-you?country=IN&version=18.04.1&architecture=amd64 
+ 
+sudo apt install openjdk-8-jdk
+folder structure of ubuntu
+Sysyem structure
+soft links
+copy command
+permissions
+grep
+Differenvr between user/bin
